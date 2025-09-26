@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "exercise6",
+      "request": "launch",
+      "mainClass": "com.codegym.lesson03.lession_03_exercises.exercise6",
+      "projectName": "Lesson-03-array_5ecc3e84"
+    }
+  ]
+}

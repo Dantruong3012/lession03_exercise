@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "exercise9",
+      "request": "launch",
+      "mainClass": "com.codegym.lesson03.lession_03_exercises.exercise9"
+    },
+    {
+      "type": "java",
+      "name": "exercise8",
+      "request": "launch",
+      "mainClass": "com.codegym.lesson03.lession_03_exercises.exercise8"
+    },
+    {
+      "type": "java",
+      "name": "exercise7",
+      "request": "launch",
+      "mainClass": "com.codegym.lesson03.lession_03_exercises.exercise7"
+    }
+  ]
+}
